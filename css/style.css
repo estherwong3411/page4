@@ -1,0 +1,217 @@
+.titleHead {
+  font-size: 25px;
+  text-align: center;
+  padding: 15px 15px;
+  max-width: 400px;
+}
+
+body{
+  background:#fafafa;
+  max-width: 400px;
+}
+
+#searchbox5{
+    width:200px;
+    margin:0 auto;
+    padding: 0px 0 0px;
+    margin-top: 0px
+      
+}
+#search5{
+    background:rgb(128, 128, 128);
+    no-repeat 10px 6px #444;
+    border:0 none;
+    font: bold 12px Arial, Helvetica, Sans-serif;
+    color:#777;
+    width:150px;
+    padding:6px 15px 6px 35px;
+    border-radius:20px;
+    text-shadow:0 2px 2px rgba(0,0,0,0.3);
+    box-shadow:0 1px 0 rgba(255,255,255,0.1), 0 1px 3px rgba(0,0,0,0.2) inset;
+    -webkit-transition: all 0.7s ease 0s;
+    max-width: 400px;
+    
+}
+
+#search5:focus {
+    width: 200px;
+    outline:0;
+    max-width: 400px;
+}    
+
+.row {
+	&:after {
+		content: "";
+		clear: both;
+		display: table;
+    max-width: 400px;
+	}
+}
+img {
+  margin:18px;
+  max-width: 400px;
+}
+
+.categories {
+  margin-top: -90px;
+  max-width: 400px;
+}
+
+.Echeveria-Agavoides {
+  width: 110px;
+  border-radius: 200px;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  -webkit-transform: translateY(100px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  max-width: 400px;
+}
+.Aeonium-Tabuliforme {
+  width: 110px;
+  border-radius: 200px;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  -webkit-transform: translateY(100px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  max-width: 400px;
+}
+.Echeveria-Topsy-Turvy {
+  width: 110px;
+  border-radius: 200px;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  -webkit-transform: translateY(100px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  max-width: 400px;
+}
+img.Kalanchoe-Tomentosa {
+  width: 110px;
+  border-radius: 200px;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  -webkit-transform: translateY(100px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  max-width: 400px;
+}
+img.Hens-and-Chicks {
+  width: 110px;
+  border-radius: 200px;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  -webkit-transform: translateY(100px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  max-width: 400px;
+}
+img.Burro-Tail {
+  width: 110px;
+  border-radius: 200px;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  -webkit-transform: translateY(100px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  max-width: 400px;
+}
+img.Aeonium-Tabuliforme:hover,img.Echeveria-Agavoides:hover,img.Echeveria-Topsy-Turvy:hover,img.Kalanchoe-Tomentosa:hover,img.Hens-and-Chicks:hover,img.Burro-Tail:hover {
+  border-radius: 0;
+  box-shadow: none;
+  max-width: 400px;
+}
+
+.subtitle {
+  font-size: 12px;
+  text-align: center;
+  margin-top: -45px;
+  max-width: 400px;
+}
+
+/* This is new, it is a container for the subtitle */
+.textblock-sm {
+  text-align: center;
+  margin:0 auto;
+  padding: 20px;
+  max-width: 400px;
+}
+/* Make some adjustments so that the height is correct and stuff */
+.block-1, .block-2 {
+    padding: 10px;
+    height: 30%;
+    margin: 0 auto;
+    max-width: 400px;
+}
+.block-3 {
+    padding: -20px;
+    height: 10%;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+/* These get moved below because of spacing, so just pull it back up again */
+.block-2 {
+    margin-top: 0%;
+  max-width: 400px;
+}
+
+.block-3 {
+    margin-top: 0%;
+  max-width: 400px;
+}
+
+/* OLD CRAP I NEEDED TO INCLUDE*/
+
+.header {
+  margin: 0 auto;
+  text-align: center;
+  background: #fff;
+  max-width: 400px;
+}
+
+.titleHead {
+  font-size: 25px;
+  text-align: center;
+  padding: 40px 70px;
+  margin-top: 10px 
+    
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  font-size: inherit;
+  max-width: 400px;
+  
+}
+
+a:hover {
+  text-decoration: none;
+  max-width: 400px;
+}
+
+h3.title {
+  padding-bottom: 20px;
+  border-bottom: 2px solid #aaa;
+  max-width: 400px;
+  
+}
